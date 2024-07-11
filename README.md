@@ -23,4 +23,4 @@
 
 ## 
   
-![snake gif](https://github.com/MiguelHelen/MiguelHelen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MiguelHelen/MiguelHelen/blob/output/github-contribution-grid-snake.svg)
