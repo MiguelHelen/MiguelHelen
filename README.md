@@ -1,7 +1,7 @@
 
 
-<div align = "right">
-<img height ="100" width = "100" href= "https://cdn.pixabay.com/animation/2022/12/07/08/23/08-23-44-708_512.gif"
+<div align = "left">
+<img height ="100" width = "100" href= "https://img1.picmix.com/output/stamp/normal/3/6/4/5/1455463_34896.gif"
 </div>
 
 
