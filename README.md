@@ -18,4 +18,4 @@
   
  ##
   
-![snake gif](https://github.com/MiguelHelen/MiguelHelen/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MiguelHelen/MiguelHelen/blob/output/github-contribution-grid-snake.gif)
