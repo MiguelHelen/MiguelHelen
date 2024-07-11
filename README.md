@@ -1,8 +1,8 @@
 
 
-
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70202&background=1B2BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Eu+sou+o+Miguel;Tenho+15+anos;Bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
-
+<div align="center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70202&background=1B2BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Eu+sou+o+Miguel;Tenho+15+anos;Bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
+</div>
 <div align="center">
   <a href="https://github.com/MiguelHelen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
