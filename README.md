@@ -1,4 +1,4 @@
-<imagem alinhar="esquerda" fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&left=true&left=true&random=false&width=500&lines=Olá+meu+nome+é+Miguel!;Tenho+15+anos; Seja+Bem-vindo+ao+meu+perfil" alt="Digitando SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=1B2BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Eu+sou+o+Miguel;Tenho+15+anos;Bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
 
 <div align="center">
   <a href="https://github.com/MiguelHelen">
