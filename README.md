@@ -1,7 +1,7 @@
 
 
 <div align = "left">
-<img height ="100" width = "100" href= "https://img1.picmix.com/output/stamp/normal/3/6/4/5/1455463_34896.gif"
+<img height ="100" width = "100" src= "https://img1.picmix.com/output/stamp/normal/3/6/4/5/1455463_34896.gif"
 </div>
 
 
