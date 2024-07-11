@@ -1,4 +1,4 @@
-## Hi there 👋
+<imagem alinhar="esquerda" fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&left=true&left=true&random=false&width=500&lines=Olá+meu+nome+é+Miguel!;Tenho+15+anos; Seja+Bem-vindo+ao+meu+perfil" alt="Digitando SVG">
 
 <div align="center">
   <a href="https://github.com/MiguelHelen">
