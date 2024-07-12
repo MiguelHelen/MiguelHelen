@@ -29,7 +29,7 @@ jobs:
 
       - uses: docker/login-action@v2
         with:
-          username: ${{ secrets.DOCKERHUB_MiguelHelen }}
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: build and publish the docker image
