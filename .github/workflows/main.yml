@@ -1,53 +1,38 @@
 
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+# Ação do GitHub para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
+nome : Gerar Snake
 
-# Controls when the action will run.
-on:
-  schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
-  
-  # Also run on every push on the master branch
-  push:
-    branches:
-    - main
+# A sequência de execuções neste fluxo de trabalho:
+empregos :
+  # Este fluxo de trabalho contém um único trabalho chamado "build"
+  construir :
+    # O tipo de executor no qual o trabalho será executado
+    executa em : ubuntu-latest
 
-# The sequence of runs in this workflow:
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    # As etapas representam uma sequência de tarefas que serão executadas como parte do trabalho
+    passos :
+      - nome : Repositório clone
+        usos : ações/checkout@v3
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-           dist/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#ffb3b3,#ff6666,#ff4d4d,#ff3333,#e60000
-           dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#ffb3b3,#ff6666,#ff4d4d,#ff3333,#e60000
+      - nome : Gerar os arquivos snake em './dist/'
+        usos : Platane/snk@v3
+        id : cobra-gif
+        com :
+          nome_de_usuário_github : ${{ github.repository_owner }}
+          saídas : |
+           dist/github-contribution-grid-snake.svg?color_snake=azul&color_dots=# ffb3b3,#ff6666,#ff4d4d,#ff3333,#e60000
+           dist/github-contribution-grid-snake.gif?color_snake=azul&color_dots=# ffb3b3,#ff6666,#ff4d4d,#ff3333,#e60000
       
-        env:
-           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-
-      - name: Show build status
-        run: git status
-
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        ambiente :
+           TOKEN_GITHUB : ${{ segredos.MEU_TOKEN_GITHUB }}
+      - nome : Mostrar status da compilação
+        executar : git status
+      - nome : Envie novos arquivos para o branch de saída
+        usos : crazy-max/ghaction-github-pages@v3.1.0
+        com :
+          target_branch : saída
+          build_dir : dist
+          commit_message : Atualizar animações de cobra
+        ambiente :
+          TOKEN_GITHUB : ${{ segredos.MEU_TOKEN_GITHUB }}
