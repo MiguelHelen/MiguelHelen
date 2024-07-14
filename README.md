@@ -26,6 +26,6 @@
   
 </div>
  
-## 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake.svg"/>
   
 
