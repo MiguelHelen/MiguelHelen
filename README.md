@@ -1,5 +1,5 @@
 <div align = "center">
-<img src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" withd = "600" height = "400" >
+<img src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" withd = "100000" height = "400" >
 </div>
 
 
