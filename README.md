@@ -3,7 +3,7 @@
 
 <div align = "center">
   
-<img src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" withd = "1200" height = "500" >
+<img src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" withd = "1200" height = "300" >
 </div>
 
 </div>
