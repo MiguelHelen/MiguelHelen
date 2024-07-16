@@ -23,7 +23,7 @@
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution.svg/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution.svg"/>
 </div>
  
 
