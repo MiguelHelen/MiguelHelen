@@ -1,8 +1,6 @@
 
 
-<div align = "left">
 
-</div>
 
 
 <div align="center"
