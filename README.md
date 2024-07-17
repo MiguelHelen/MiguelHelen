@@ -1,5 +1,7 @@
 <img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0000" > 
 
+<img width = "100%" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
+
 <div align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70202&background=1B2BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Eu+sou+o+Miguel;Tenho+15+anos;Bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
   
