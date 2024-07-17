@@ -1,4 +1,4 @@
-<img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0000" > 
+<img width = "100%" height = "10%" src = "https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0000" > 
 
 <img width = "100%" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
 
