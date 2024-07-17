@@ -21,6 +21,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution.svg"/>
 </div>
  
-< img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0000&reversal=false&section=footer" >
+<img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0000&reversal=false&section=footer" >
   
 
