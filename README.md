@@ -1,7 +1,7 @@
 <img width = "100%"  src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000" > 
 
 <div align="center">
-<img width = "100%" height = "540px" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
+<img width = "100%" height = "460px" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
   
 </br>
 </br>
@@ -13,7 +13,7 @@
   <a href="https://github.com/MiguelHelen">
   <img src = "https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=radical">
   </br>
-  <img aling = "center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe" />
+  <img aling = "center" width="41%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe"/>
 </div>
     
   <div style="display: inline_block" ><br>
@@ -32,7 +32,7 @@
   </div> 
   <hr>
   </br>
-  <img align ="center" width = "96%" height = "50" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
+  <img align ="center" width = "96%" height = "45" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution.svg"/>
 
