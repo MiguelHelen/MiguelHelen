@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/MiguelHelen">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=radical" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=radical">
   </br>
   <img aling = "center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe" />
 </div>
@@ -32,7 +32,7 @@
   </div> 
   <hr>
   </br>
-  <img align ="center" width = "96%" height = "60" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
+  <img align ="center" width = "96%" height = "40" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution.svg"/>
 
