@@ -1,7 +1,7 @@
 <img width = "100%"  src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000" > 
 
 <div align="center">
-<img width = "100%" height = "550px" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
+<img width = "100%" height = "540px" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
   
 </br>
 </br>
@@ -23,19 +23,20 @@
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
- <div style="display: inline_block" ><br> 
+  <hr>
+ <div style="display: inline_block" >
 <h2>IDEs:</h2>
   <img align="center" alt="Dev-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Dev-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Dev-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  </div>                   
-  </br> 
-
-  <img align ="center" width = "100%" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
+  </div> 
+  <hr>
+  </br>
+  <img align ="center" width = "80%" height = "50" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution.svg"/>
 
  
-<img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0000&reversal=false&section=footer" >
+<img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&reversal=false&section=footer" >
   
 
