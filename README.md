@@ -33,7 +33,7 @@
   </br>
   <img align ="center" width = "96%" height = "45" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/snk - interactive.html/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-user-contribution (4).svg/>
 
  
 <img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&reversal=false&section=footer" >
