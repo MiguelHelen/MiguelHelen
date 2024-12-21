@@ -33,7 +33,11 @@
   </br>
   <img align ="center" width = "96%" height = "45" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
  
-![Snake animation](https://github.com/MiguelHelen/MiguelHelen/raw/output/github-contribution-grid-snake.gif)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake.svg">
+</pictur
 
 
  
