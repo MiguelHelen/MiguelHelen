@@ -1,7 +1,7 @@
 <img width = "100%"  src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000" > 
 
 <div align="center">
-<img width = "100%" height = "550vh" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
+<img width = "100%" height = "540vh" src = "https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" >
   
 </br>
 </br>
