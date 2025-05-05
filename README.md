@@ -34,7 +34,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiguelHelen/MiguelHelen/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 
