@@ -33,8 +33,6 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-
- 
 <img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&reversal=false&section=footer" >
   
 
