@@ -1,40 +1,69 @@
+<!-- Top banner preto com texto branco -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&text=Welcome%20to%20My%20GitHub!&fontColor=FFFFFF&fontAlignY=40&fontSize=40" />
 
-<img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&reversal=false" >
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ4a2N0cndzd3J2cmxpZ2M4ZTJwbHd4YWJsdmVicWswaHg5M216cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Technology GIF" width="600" />
+</p>
 
-<div align="center">
- 
-</div>
+<div align="left">
 
-<div align="center">
-  <a href="https://github.com/MiguelHelen">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=radical">
-  <img aling = "center" width="41%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe"/>
-</div>
-    
-  <div style="display: inline_block" ><br>
-  <h2>Linguagens:</h2>
-  <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dev-Js" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />       
-  <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  <hr>
- <div style="display: inline_block" >
-<h2>IDEs:</h2>
-  <img align="center" alt="Dev-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="Dev-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Dev-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  </div> 
-  <hr>
-  </br>
-  <img align ="center" width = "96%" height = "45" src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" > 
- 
-<div align="center">
+### Bem-vindo! Eu sou o Miguel
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake.svg"/>
+
+### Tenho 16 anos de idade
+
+
+
+### 💻 Atualmente estudo Desenvolvimento de Sistemas na ETEC da Zona Leste
 
 </div>
 
-<img width = "100%" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&reversal=false&section=footer" >
-  
+---
 
+
+
+<div align="center">
+
+  <!-- Stats com tema dark minimalista -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&hide_border=true&theme=dark" alt="Top Languages" width="41%" height="195px" />
+
+</div>
+
+---
+
+
+
+##  Tecnologias que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+</p>
+
+
+##  Ferramentas e IDEs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipseide" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
+</p>
+
+---
+
+<br>
+
+<div align="center">
+  <img alt="Coding animation" width="96%" height="45" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- Footer banner preto -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&reversal=false&section=footer" />
