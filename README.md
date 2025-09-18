@@ -1,10 +1,5 @@
 <!-- Top banner preto com texto branco -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&text=Welcome%20to%20My%20GitHub!&fontColor=FFFFFF&fontAlignY=40&fontSize=40" />
-
-<!-- GIF reduzido -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ4a2N0cndzd3J2cmxpZ2M4ZTJwbHd4YWJsdmVicWswaHg5M216cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Technology GIF" width="500" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&text=Welcome%20to%20My%20GitHub!&fontColor=FFFFFF&fontAlignY=40&fontSize=40" />
 
 <br>
 
