@@ -1,5 +1,5 @@
 <!-- Top banner preto com texto branco -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&text=Welcome%20to%20My%20GitHub!&fontColor=FFFFFF&fontAlignY=40&fontSize=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=000000&text=Bem-Vindo%20ao%20Meu%20GitHub!&fontColor=FFFFFF&fontAlignY=40&fontSize=40" />
 
 <br>
 
@@ -8,8 +8,6 @@
 <h1>Bem vindo, Eu sou O Miguel</h1>
 <h2>Tenho 16 anos de idade</h2>
 <h3>Atualmente, estudo Desenvolvimento de Sistemas na Etec da Zona Leste</h3>
-
-<br>
 
 <br><br>
 
@@ -89,4 +87,4 @@
 
 
 <!-- Footer banner preto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&reversal=false&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&reversal=false&section=footer" />
