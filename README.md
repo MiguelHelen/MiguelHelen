@@ -1,90 +1,111 @@
-<!-- Top banner preto com texto branco -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=000000&text=Bem-Vindo%20ao%20Meu%20GitHub!&fontColor=FFFFFF&fontAlignY=40&fontSize=40" />
-
-<br>
-
-<!-- Sobre mim centralizado -->
-<div style="display: flex";>
-<h1>Bem vindo, Eu sou O Miguel</h1>
-<h2>Tenho 16 anos de idade</h2>
-<h3>Atualmente, estudo Desenvolvimento de Sistemas na Etec da Zona Leste</h3>
-
-<br><br>
-
----
-
-<table align="center" style="background-color: white; border-radius: 10px; padding: 20px;">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=default&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&hide_border=false&theme=default" />
-    </td>
-  </tr>
-</table>
+<!-- Banner superior com efeito ondulado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=140&section=header&text=Bem-Vindo%20ao%20Meu%20Perfil!%20&fontSize=40&fontColor=ffffff" />
 
 
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelHelen&theme=darkhub&row=2&column_width=120&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
-
----
-<br>
-
-
-## 💻 Tecnologias que estou usando
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" />
-  <br>
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
-</p>
-
-
-
-<br>
-
-## 🛠️ Ferramentas e IDEs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipseide" />
-  <img src="https://img.shields.io/badge/NetBeans-black?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=androidstudio" />
-  <img src="https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp" />
-  <img src="https://img.shields.io/badge/Astah-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI1IiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48cmVjdCBmaWxsPSIjMDAwIiBoZWlnaHQ9IjMyIiB3aWR0aD0iMzIiLz48L3N2Zz4=" />
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
-</p>
-
----
-
-
-
-<br>
-
+<!-- Apresentação principal -->
 <div align="center">
-  <img alt="Coding animation" width="90%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+
+# 👋 Olá! Eu sou o <span style="color:#0A74DA">Miguel </span>  
+🎓 Estudante de **Desenvolvimento de Sistemas** na **Etec da Zona Leste**  
+💻 Apaixonado por **tecnologia**, **design** e **criação de soluções inteligentes**  
+✨ Tenho **16 anos** e acredito que cada linha de código é uma forma de arte.
+
 </div>
 
-<br><br>
+---
+
+##  Sobre Mim
+
+Sou um jovem desenvolvedor que acredita no poder da tecnologia para **transformar ideias em impacto real**.  
+Atualmente, estou aprendendo e criando projetos que envolvem **aplicações web, mobile e banco de dados**.  
+Adoro desafios que me façam pensar, aprender e evoluir constantemente. 🚀  
+
+---
+
+##  Linguagens e Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,php,js,html,css,mysql,git&theme=light" height="100" />
+
+</div>
+
+
+---
+
+##  Ferramentas que utilizo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,figma,eclipse,github&theme=light" height="100" />
+
+</div>
+
+---
+
+##  Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/MiguelHelen/Consultorio-Medico" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHelen&repo=Consultorio-Medico&theme=transparent&border_color=0A74DA&title_color=0A74DA&icon_color=0A74DA" />
+</a>
+
+<a href="https://github.com/MiguelHelen/App-Escola-Infantil" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHelen&repo=App-Escola-Infantil&theme=transparent&border_color=0A74DA&title_color=0A74DA&icon_color=0A74DA" />
+</a>
+
+</div>
+
+
+---
+
+##  Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=transparent&title_color=0A74DA&icon_color=0A74DA&text_color=333333" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MiguelHelen&theme=transparent&ring=0A74DA&fire=0A74DA&currStreakLabel=0A74DA" />
+
+</div>
+
+---
+
+## 🏆 Conquistas & Destaques
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelHelen&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+
+
+<div align="center">
+  <img alt="Coding animation" width="80%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+</div>
+
+---
+
+##  Minhas Contribuições
 
 <div align="center">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/MiguelHelen/MiguelHelen/output/github-contribution-grid-snake.svg" />
 </div>
 
-<br>
+---
 
+##  Conecte-se comigo
 
-<!-- Footer banner preto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&reversal=false&section=footer" />
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A74DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhelen)
+[![Gmail](https://img.shields.io/badge/Gmail-0A74DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelheleno.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelHelen)
+
+</div>
+
+---
+
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=footer" />
