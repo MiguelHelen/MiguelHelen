@@ -22,7 +22,7 @@ Adoro desafios que me façam pensar, aprender e evoluir constantemente. 🚀
 
 ---
 
-##  Linguagens e Tecnologias
+## Tecnologias
 
 <div align="center">
 
