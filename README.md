@@ -6,9 +6,9 @@
 <div align="center">
 
 # 👋 Olá! Eu sou o <span style="color:#0A74DA">Miguel </span>  
-🎓 Estudante de **Desenvolvimento de Sistemas** na **Etec da Zona Leste**  
-💻 Apaixonado por **tecnologia**, **design** e **criação de soluções inteligentes**  
-✨ Tenho **16 anos** e acredito que cada linha de código é uma forma de arte.
+ Estudante de **Desenvolvimento de Sistemas** na **Etec da Zona Leste**  
+ Apaixonado por **tecnologia**, **design** e **criação de soluções inteligentes**  
+ Tenho **16 anos** e acredito que cada linha de código é uma forma de arte.
 
 </div>
 
