@@ -47,8 +47,9 @@ Adoro desafios que me façam pensar, aprender e evoluir constantemente. 🚀
 
 <div align="center">
 
-<a href="https://github.com/MiguelHelen/Consultorio-Medico" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHelen&repo=Consultorio-Medico&theme=transparent&border_color=0A74DA&title_color=0A74DA&icon_color=0A74DA" />
+
+<a href="https://github.com/MiguelHelen/painel-solar-api" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHelen&repo=painel-solar-api&theme=transparent&border_color=0A74DA&title_color=0A74DA&icon_color=0A74DA" />
 </a>
 
 <a href="https://github.com/MiguelHelen/App-Escola-Infantil" target="_blank">
@@ -64,7 +65,7 @@ Adoro desafios que me façam pensar, aprender e evoluir constantemente. 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelHelen&show_icons=true&theme=transparent&title_color=0A74DA&icon_color=0A74DA&text_color=333333" />
+<img height="180em" src="https://github-readme-stats-mirror.vercel.app/api?username=MiguelHelen&show_icons=true&theme=transparent&title_color=0A74DA&icon_color=0A74DA&text_color=333333" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MiguelHelen&theme=transparent&ring=0A74DA&fire=0A74DA&currStreakLabel=0A74DA" />
 
 </div>
