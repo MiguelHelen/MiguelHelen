@@ -42,23 +42,7 @@ Adoro desafios que me façam pensar, aprender e evoluir constantemente.
 
 ---
 
-##  Projetos em Destaque
 
-<div align="center">
-
-
-<a href="https://github.com/MiguelHelen/painel-solar-api" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHelen&repo=painel-solar-api&theme=transparent&border_color=0A74DA&title_color=0A74DA&icon_color=0A74DA" />
-</a>
-
-<a href="https://github.com/MiguelHelen/App-Escola-Infantil" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHelen&repo=App-Escola-Infantil&theme=transparent&border_color=0A74DA&title_color=0A74DA&icon_color=0A74DA" />
-</a>
-
-</div>
-
-
----
 
 ##  Estatísticas do GitHub
 
