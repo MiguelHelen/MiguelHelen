@@ -43,6 +43,7 @@ Acredito que bom código é aquele que faz sentido — para quem lê e para quem
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [**Consultório Médico**](https://github.com/MiguelHelen/Consultorio_Medico) | Sistema de gestão de consultório desenvolvido na matéria de Banco de Dados | Java · MySQL |
+| [**Gerenciador de Tarefas**](https://github.com/MiguelHelen/Gerenciador-Tarefas) | Sistema de Gerenciamento de Tarefas(Posts) Online | laravel · MySQL |
 
 ---
 <br>
