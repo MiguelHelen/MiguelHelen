@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header&text=Miguel+Helen&fontSize=42&fontColor=ffffff&desc=Desenvolvedor+em+Formação&descSize=18&descAlignY=75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=140&section=header&text=Miguel+Helen&fontSize=42&fontColor=ffffff&desc=Desenvolvedor+em+Formação&descSize=18&descAlignY=75" />
 
 <div align="center">
 
