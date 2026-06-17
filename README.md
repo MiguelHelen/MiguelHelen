@@ -48,12 +48,8 @@ Acredito que bom código é aquele que faz sentido — para quem lê e para quem
 ---
 <br>
 
-##  Estatísticas
+##  Estatística
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats-mirror.vercel.app/api?username=MiguelHelen&show_icons=true&theme=transparent&title_color=0A74DA&icon_color=0A74DA&text_color=555555&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=MiguelHelen&layout=compact&theme=transparent&title_color=0A74DA&text_color=555555&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MiguelHelen&theme=transparent&ring=0A74DA&fire=0A74DA&currStreakLabel=0A74DA&hide_border=true"/>
