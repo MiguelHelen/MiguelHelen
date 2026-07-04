@@ -11,8 +11,7 @@ Estudante de Desenvolvimento de Sistemas na **Etec Zona Leste** — construindo 
 [![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=flat-square&logo=github&logoColor=white)](https://github.com/MiguelHelen)
 
 </div>
-
----
+<br>
 
 ## Sobre mim
 
@@ -20,7 +19,7 @@ Desenvolvo aplicações **web e mobile** com foco em resolver problemas reais. A
 
 Acredito que bom código é aquele que faz sentido — para quem lê e para quem usa.
 
----
+<br>
 <br>
 
 ## 💻 Tecnologias
@@ -34,8 +33,6 @@ Acredito que bom código é aquele que faz sentido — para quem lê e para quem
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,figma,github&theme=light" height="48"/>
 </div>
-
----
 <br>
 
 ##  Projetos em Destaque
