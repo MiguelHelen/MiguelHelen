@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=160&section=header&text=Miguel+Nascimento&fontSize=42&fontColor=ffffff&desc=Desenvolvedor+em+Formação&descSize=18&descAlignY=75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=260&section=header&text=Miguel+Nascimento&fontSize=40&fontColor=ffffff&desc=Desenvolvedor+em+Formação&descSize=23&descAlignY=75" />
 
 <div align="center">
 
